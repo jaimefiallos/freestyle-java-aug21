@@ -4,7 +4,7 @@
 
 <target name="info">
 
-<echo> Hello World - Welcome to Cal Tech Simplilearn</echo>
+<echo> Hello Jaime - Welcome to Cal Tech Simplilearn</echo>
 
 </target>
 
